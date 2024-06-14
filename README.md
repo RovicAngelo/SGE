@@ -1,3 +1,3 @@
-# BVS
-Mobile Application: Barangay Voting System
- >In progress
+# SGE
+Mobile Application: Student Government Election
+
